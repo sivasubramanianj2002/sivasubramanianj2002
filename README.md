@@ -15,7 +15,7 @@ Software Engineer
 [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/u/sivas122/)
 
 - 😄 Pronouns: Software Engineer
-- ⚡ Fun fact: I love solving backend and DSA problems.
+- ⚡ Fun fact: I don't know japanese
 
 ---
 
