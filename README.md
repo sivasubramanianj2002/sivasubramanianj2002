@@ -23,23 +23,27 @@ Software Engineer
 
 ### 👨‍💻 Languages & Frameworks
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/>
-<img height="50" width="50" src="https://img.icons8.com/officel/40/php-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/spring-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/fluency/48/laravel.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/docker.png"/>
+<p align="left">
+  <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/officel/40/php-logo.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/spring-logo.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/fluency/48/laravel.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/docker.png"/>
+</p>
 
 ### 🗄️ Databases & Tools
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/redis.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/intellij-idea.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/postman-api.png"/>
+<p align="left">
+  <img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/redis.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/intellij-idea.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/postman-api.png"/>
+</p>
 
 ---
 
